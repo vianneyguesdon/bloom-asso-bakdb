@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"bloom-api.laws"},{"v":2,"key":{"name":1},"name":"name_1","ns":"bloom-api.laws","background":true},{"v":2,"key":{"protect":1},"name":"protect_1","ns":"bloom-api.laws","background":true}],"uuid":"c63b710745424e6bad34086a4abee694"}
